@@ -15,6 +15,10 @@ target outcome : "- Color-coded custom labels
 - Export data as JSON or CSV
 - Supports small datasets for educational purposes"
 
+- Url : http://localhost:3000/
+
+- 
+
 
 
 
