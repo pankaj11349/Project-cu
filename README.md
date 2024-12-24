@@ -1,0 +1,5 @@
+1. annotations.json : This file serves as a data storage file for the task annotations. (DATA)
+2. server.js : This is the backend code using Node.js and Express. It manages task creation, retrieval, updating, and deletion via RESTful API endpoints.(Backend)
+3.  index.html : This is the frontend code that provides a user interface for managing tasks.(Frontend)
+4.  app.js : This is a JavaScript file implementing a task management system.(Frontend)
+5.  style.css : This file defines the styles for the task management UI.(Frontend)
