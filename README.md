@@ -1,5 +1,10 @@
-1. annotations.json : This file serves as a data storage file for the task annotations. (DATA)
-2. server.js : This is the backend code using Node.js and Express. It manages task creation, retrieval, updating, and deletion via RESTful API endpoints.(Backend)
-3.  index.html : This is the frontend code that provides a user interface for managing tasks.(Frontend)
-4.  app.js : This is a JavaScript file implementing a task management system.(Frontend)
-5.  style.css : This file defines the styles for the task management UI.(Frontend)
+Text-Data-Annotation-Management-System
+
+A Text Data Annotation Management System is a tool or platform designed to facilitate the annotation, management, and curation of text data, typically for machine learning, natural language processing (NLP), or data analytics projects.
+
+Technology used :
+"HTML, CSS, JavaScript (Frontend)
+Node.js (Backend)
+Simple JSON-based storage"
+![image](https://github.com/user-attachments/assets/61a84953-2331-48cd-887f-baf1863fd72e)
+
