@@ -16,8 +16,11 @@ target outcome : "- Color-coded custom labels
 - Supports small datasets for educational purposes"
 
 - Url : http://localhost:3000/
+-  you need to run in poweshell - node backend/server.js
+for running server so that you can run the site .
 
-- 
+Note : you have required all technology in your computer system for running this site .
+
 
 
 
